@@ -1,4 +1,4 @@
-# Asus_USB-AC53_rtl8822bu
+# Asus_USB-53 Kernel-4.10.0-Drivers (Ubuntu_16.4 or Fedora or Arch or Any Linux)
   Asus AC1200 USB-AC53 Nano <br />
   8822BU for Linux <br />
   Driver for 802.11ac USB Adapter with <br />
