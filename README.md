@@ -13,5 +13,5 @@ Output: insmod /lib/modules/4.13.16-302.fc27.x86_64/kernel/drivers/net/wireless/
 
 
 # Testing:
-Tested with Fedora 27 <br />
-Kernel: 4.13.16-302.fc27.x86_64 <br />
+Tested with Fedora or Ubuntu or Arch or any Linux with below kernel version <br />
+Kernel: 4.10.0-xxx.xxxxx.x86_64 <br />
